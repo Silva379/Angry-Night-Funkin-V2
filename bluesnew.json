@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				131
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				480,
+				130
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "BLUESNEW idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				480,
+				130
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BLUESNEW down"
+		},
+		{
+			"offsets": [
+				481,
+				130
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BLUESNEW up"
+		},
+		{
+			"offsets": [
+				481,
+				129
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BLUESNEW left"
+		},
+		{
+			"offsets": [
+				481,
+				129
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BLUESNEW right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BLUESNEW",
+	"position": [
+		-90,
+		230
+	],
+	"healthicon": "blues",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		101,
+		255
+	],
+	"camera_position": [
+		-550,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

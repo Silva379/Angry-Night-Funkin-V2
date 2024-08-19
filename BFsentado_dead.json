@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				547,
+				322
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BFsentado deathLoop"
+		},
+		{
+			"offsets": [
+				547,
+				322
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BFsentado retry"
+		},
+		{
+			"offsets": [
+				547,
+				322
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BFsentado firstDeath"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFsentado",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-240,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-8
+			],
+			"fps": 24,
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "GF Dancing Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-17
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "GFGAME idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "GFGAME left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "GFGAME up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "GFGAME down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "GFGAME right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "cheer",
+			"fps": 16,
+			"name": "GFGAME cheer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "sad",
+			"fps": 16,
+			"name": "GFGAME sad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GFGAME idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFGAME",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		170,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

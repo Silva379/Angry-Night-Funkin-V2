@@ -1,0 +1,200 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-8
+			],
+			"loop": true,
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair blowing",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair Landing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				-2,
+				-17
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 11,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "cheer",
+			"indices": [],
+			"name": "cheer"
+		},
+		{
+			"offsets": [
+				-10,
+				-17
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "sad",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "sad"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				13,
+				14
+			],
+			"fps": 16,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				23,
+				24,
+				25,
+				26,
+				27
+			],
+			"fps": 16,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TERENCEWRED",
+	"position": [
+		-540,
+		-220
+	],
+	"healthicon": "gf-terence",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-130,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,180 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"offsets": [
+				280,
+				141
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "Hide",
+			"indices": [],
+			"name": "Se esconde"
+		},
+		{
+			"offsets": [
+				47,
+				103
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "Laughs"
+		},
+		{
+			"offsets": [
+				50,
+				90
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				36,
+				107
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				45,
+				89
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				57,
+				81
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				141
+			],
+			"anim": "stopHide",
+			"fps": 32,
+			"name": "Se desesconde",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-111
+			],
+			"anim": "idleBush",
+			"fps": 28,
+			"name": "Idle (bush only)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				90
+			],
+			"anim": "idleCorporal",
+			"fps": 28,
+			"name": "Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-111
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "Idle (bush only) instance 1",
+			"indices": [
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CorporalPig",
+	"position": [
+		-340,
+		70
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		0,
+		41
+	],
+	"camera_position": [
+		260,
+		210
+	],
+	"sing_duration": 2.5,
+	"scale": 1
+}

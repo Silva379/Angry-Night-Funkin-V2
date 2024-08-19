@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				170
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "BF_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF_Missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				99
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-39
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF_Missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-35
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF_Missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				-39
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF_Missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				154
+			],
+			"anim": "dodge",
+			"fps": 16,
+			"name": "BF_Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				104
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "BF_What",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pigfriend_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pigfriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		29,
+		255,
+		49
+	],
+	"camera_position": [
+		-150,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

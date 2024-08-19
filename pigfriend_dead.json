@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF_Death_animation"
+		},
+		{
+			"offsets": [
+				58,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF_RetryLoop"
+		},
+		{
+			"offsets": [
+				64,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF_GoAgain"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pigfriend_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-240,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

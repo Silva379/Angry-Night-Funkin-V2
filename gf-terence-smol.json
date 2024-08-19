@@ -1,0 +1,200 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-8
+			],
+			"loop": true,
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair blowing",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair Landing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				-2,
+				-17
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "TerenceAngry"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				139
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "TerenceYay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TerenceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "TerenceIdle",
+			"indices": [
+				22,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TerenceUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TerenceDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "TerenceIdle",
+			"indices": [
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TerenceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TERENCEGF",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "gf-terence",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-280,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

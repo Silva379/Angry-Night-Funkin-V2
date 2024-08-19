@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				131
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				64
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				67
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				596,
+				130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				472,
+				130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				463,
+				146
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				487,
+				117
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				519,
+				327
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ALT LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				383,
+				327
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ALT RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				407,
+				319
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ALT DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				386,
+				346
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				400
+			],
+			"anim": "apilar",
+			"fps": 25,
+			"name": "SE APILAN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				399,
+				327
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "ALT IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				483,
+				401
+			],
+			"anim": "desapilar",
+			"fps": 25,
+			"name": "SE DESAPILAN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				480,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				473,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "stare",
+			"loop": false,
+			"name": "BOMBASTIC SIDE EYE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BluesV2",
+	"position": [
+		160,
+		230
+	],
+	"healthicon": "blues",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		101,
+		255
+	],
+	"camera_position": [
+		-550,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

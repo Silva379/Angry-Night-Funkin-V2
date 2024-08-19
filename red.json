@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RedLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RedIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RedRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RedUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RedDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RED",
+	"position": [
+		-90,
+		230
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		1,
+		41
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
